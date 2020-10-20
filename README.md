@@ -1,7 +1,7 @@
 # Replication-Link-Intention
 The replication package for EMSE work related to the intentions of sharing links in MCR.
 
-#### Dong Wang, Tao Xiao, Raula Gaikovina Kula, Patanamon Thongtanunam and Kenichi Matsumoto
+#### Dong Wang, Tao Xiao, Patanamon Thongtanunam, Raula Gaikovina Kula, and Kenichi Matsumoto
 #### *Nara Institute of Science and Technology, Japan*
 #### *The University of Melbourn, Australia*
 
